@@ -1,9 +1,13 @@
 <div align="center">
 
-<img alt="Máximo Echazú — Full Stack Developer" src="banner-dark.svg" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img alt="Máximo Echazú — Full Stack Developer, Product Engineering, AI &amp; Automation" src="assets/banner-dark.svg" width="100%">
+</picture>
 
 <a href="https://www.linkedin.com/in/maximo-echazu-453663402/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:maxiecha98@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="mailto:maxiecha98@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
@@ -11,9 +15,18 @@
 
 ### About
 
-Full stack developer focused on building interactive, real-time web applications with JavaScript, Node.js and modern CSS (Flexbox, Grid, SASS). Comfortable across the stack — from Socket.IO-powered backends to structured, responsive frontend layouts.
+Full stack developer focused on building and improving digital products end to end, from the interface down to the data layer.
 
-Based in Salta, Argentina. Currently sharpening frontend architecture and starting to explore AI-assisted and automation workflows.
+Currently contributing to **Poncho Capital** and **Poncho Empresa**, working across frontend, QA, responsive UI/UX and product improvements, while getting deeper into backend logic and APIs.
+
+Alongside that, I'm going further into AI, agents, automation and AI-assisted development workflows.
+
+---
+
+### Currently
+
+- Working on fintech products at Poncho Capital and Poncho Empresa — frontend, QA, responsive UI/UX and product quality.
+- Exploring AI-assisted development, automation and intelligent agents.
 
 ---
 
@@ -21,34 +34,39 @@ Based in Salta, Argentina. Currently sharpening frontend architecture and starti
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,js,nodejs,express,git,github" alt="stack">
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css" alt="Languages">
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,graphql,postgres,supabase" alt="Backend and Data">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker" alt="Tools">
 
 </div>
 
----
-
-### Selected work
-
-<a href="https://github.com/zMax98/ChatLive"><img src="card-chatlive.svg" alt="ChatLive"></a>
-<a href="https://zmax98.github.io/PixelVault/"><img src="card-pixelvault.jpg" alt="PixelVault"></a>
-<a href="https://zmax98.github.io/Darkside/"><img src="card-darkside.jpg" alt="Darkside"></a>
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **ChatLive** | Real-time multi-user chat with a custom dark UI | Node.js · Express · Socket.IO | [repo](https://github.com/zMax98/ChatLive) |
-| **PixelVault** *(coursework)* | Responsive 5-page site — Grid, Flexbox, SASS, Bootstrap | HTML · SCSS · Bootstrap | [repo](https://github.com/zMax98/PixelVault) · [demo](https://zmax98.github.io/PixelVault/) |
-| **Darkside** *(coursework)* | Dark-themed landing page with semantic HTML | HTML · CSS | [repo](https://github.com/zMax98/Darkside) · [demo](https://zmax98.github.io/Darkside/) |
+AI / workflow: Claude Code · Codex · AI-assisted development · Automation workflows · AI agents
 
 ---
 
-### Currently
+### Focus
 
-Building small full-stack projects and picking up AI-assisted and automation workflows along the way.
+AI · Machine Learning · Automation · AI Agents · Product Engineering · System Design
 
 ---
 
 <div align="center">
 
-Reach out via <a href="https://www.linkedin.com/in/maximo-echazu-453663402/">LinkedIn</a> or <a href="mailto:maxiecha98@gmail.com">email</a>.
+Let's connect.
+
+<a href="https://www.linkedin.com/in/maximo-echazu-453663402/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:maxiecha98@gmail.com"><img src="https://img.shields.io/badge/Email-171717?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>

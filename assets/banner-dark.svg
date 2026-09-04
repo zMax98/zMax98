@@ -1,0 +1,54 @@
+<svg width="1280" height="300" viewBox="0 0 1280 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Máximo Echazú — Full Stack Developer, Product Engineering, AI &amp; Automation">
+  <defs>
+    <linearGradient id="accent-d" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="0.55" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow-d" cx="0.72" cy="0.35" r="0.75">
+      <stop offset="0" stop-color="#6366f1" stop-opacity="0.45"/>
+      <stop offset="0.55" stop-color="#22d3ee" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid-d" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#30363d" stroke-width="1"/>
+    </pattern>
+    <clipPath id="gridClip-d">
+      <rect x="620" y="0" width="660" height="300"/>
+    </clipPath>
+    <filter id="blur-d" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="300" fill="#0d1117"/>
+  <rect width="1280" height="300" fill="url(#grid-d)" clip-path="url(#gridClip-d)" opacity="0.5"/>
+  <circle cx="960" cy="110" r="220" fill="url(#glow-d)" filter="url(#blur-d)"/>
+
+  <g stroke="#58a6ff" stroke-opacity="0.28" stroke-width="1">
+    <line x1="760" y1="70" x2="860" y2="120"/>
+    <line x1="860" y1="120" x2="950" y2="60"/>
+    <line x1="860" y1="120" x2="940" y2="190"/>
+    <line x1="940" y1="190" x2="1060" y2="150"/>
+    <line x1="1060" y1="150" x2="1150" y2="200"/>
+    <line x1="1060" y1="150" x2="1120" y2="80"/>
+    <line x1="950" y1="60" x2="1120" y2="80"/>
+  </g>
+  <g fill="#79c0ff">
+    <circle cx="760" cy="70" r="3.5" opacity="0.6"/>
+    <circle cx="860" cy="120" r="4.5" opacity="0.75"/>
+    <circle cx="950" cy="60" r="3" opacity="0.55"/>
+    <circle cx="940" cy="190" r="3.5" opacity="0.6"/>
+    <circle cx="1060" cy="150" r="4.5" opacity="0.75"/>
+    <circle cx="1150" cy="200" r="3" opacity="0.5"/>
+    <circle cx="1120" cy="80" r="3.5" opacity="0.6"/>
+  </g>
+
+  <rect x="0" y="0" width="5" height="300" fill="url(#accent-d)"/>
+
+  <text x="72" y="118" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#f0f6fc">Máximo Echazú</text>
+  <text x="72" y="154" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="600" fill="url(#accent-d)">Full Stack Developer · Product Engineering</text>
+  <text x="72" y="185" font-family="'Cascadia Code', Consolas, Menlo, monospace" font-size="15" fill="#8b949e">Building digital products · AI &amp; Automation</text>
+
+  <rect x="72" y="207" width="52" height="3" rx="1.5" fill="url(#accent-d)"/>
+</svg>
